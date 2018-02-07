@@ -7,6 +7,7 @@ public class ImprimindoVars {
      * @param args (comentário oficial)
      */
     public static void main(String[] args){
-
+        int nomeVar = 20;
+        System.out.println("O valor da var e: "+ nomeVar);
     }
 }
